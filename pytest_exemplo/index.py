@@ -4,5 +4,5 @@ def calc_total(a, b):
 def calc_multiply(a, b):
 	return a * b
 
-def calc_square(num):
+def calc_mult_multiply(num):
 	return num * num
