@@ -8,6 +8,6 @@ import pytest
 								(10,100)
 							])
 
-def test_calc_square(test_input, expected_output):
+def test_calc_mult_multiply(test_input, expected_output):
 	result = index.calc_mult_multiply(test_input)
 	assert result == expected_output
