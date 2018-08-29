@@ -9,5 +9,5 @@ import pytest
 							])
 
 def test_calc_square(test_input, expected_output):
-	result = index.calc_square(test_input)
+	result = index.calc_mult_multiply(test_input)
 	assert result == expected_output
